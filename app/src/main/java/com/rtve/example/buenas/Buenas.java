@@ -28,6 +28,7 @@ public class Buenas extends Activity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
+		int hola = 9;
         if (id == R.id.action_settings) {
             return true;
         }
